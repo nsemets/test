@@ -1,0 +1,93 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://staging4.osf.io/6wke2",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "affiliation": [
+        {
+          "affiliation": "Exoft",
+          "affiliationIdentifier": "https://staging4.osf.io/institutions/exoft/",
+          "affiliationIdentifierScheme": "URL"
+        }
+      ],
+      "creatorName": {
+        "creatorName": "Nazar Semets",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://staging4.osf.io/n26tk",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2025-10-03",
+      "dateType": "Created"
+    },
+    {
+      "date": "2025-10-03",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://staging4.osf.io/6wke2",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2025",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "https://staging4.osf.io/bqtxa",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2025",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://staging4.osf.io/bqtxa",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Public project"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "File",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [],
+  "subjects": [],
+  "titles": [
+    {
+      "title": "Page not found1 - 2.png"
+    }
+  ]
+}
